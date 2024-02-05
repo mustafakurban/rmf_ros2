@@ -24,7 +24,6 @@
 #include <optional>
 #include <rmf_traffic/schedule/StubbornNegotiator.hpp>
 #include <rmf_traffic/agv/Planner.hpp>
-#include <string>
 
 namespace rmf_fleet_adapter {
 namespace events {
